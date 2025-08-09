@@ -7,3 +7,4 @@ Role
 - role management
 
 Privileges 
+- privileges management 
