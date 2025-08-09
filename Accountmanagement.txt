@@ -1,0 +1,9 @@
+
+
+user credentials 
+- username
+- password
+Role
+
+
+Privileges 
