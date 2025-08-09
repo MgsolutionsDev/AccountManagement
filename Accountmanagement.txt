@@ -11,6 +11,3 @@ Privileges
 - privileges management 
 
 - create Privileges
-
-
-email notification
